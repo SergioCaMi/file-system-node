@@ -23,6 +23,8 @@ contributors.forEach(contributor => {
             console.log(texto);
         }
     }
-    fs.writeFileSync("notificaciones.txt", texto, { flag: 'a', encoding: 'utf-8' });
+    fs.appendFileSync("notificaciones.txt", texto);
 
 });
+
+

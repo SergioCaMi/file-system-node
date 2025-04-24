@@ -1,3 +1,5 @@
+
+ ********* 2abril_participants_94849208356.csv ********* 
 ﻿aaron sanchez ha venido hoy a clase 276 minutos
 Óscar Miras,oscar.miras@ironhack.com,246,No ha venido hoy a clase 246 minutos
 Esteban Piliponsky ha venido hoy a clase 244 minutos
@@ -13,4 +15,66 @@ Andrii Sharmar ha venido hoy a clase 194 minutos
 Daud Peralta Adan ha venido hoy a clase 167 minutos
 Kevin Hughes ha venido hoy a clase 112 minutos
 Balam Castro ha venido hoy a clase 24 minutos
+
+ ********* 2mayo_participants_94849208356.csv ********* 
+﻿Óscar Miras,oscar.miras@ironhack.com,254,No ha venido hoy a clase 254 minutos
+Andrii ha venido hoy a clase 252 minutos
+aaron sanchez ha venido hoy a clase 241 minutos
+Zulema Casado García-Consuegra ha venido hoy a clase 192 minutos
+daniel salcedo ha venido hoy a clase 246 minutos
+Esteban Piliponsky ha venido hoy a clase 245 minutos
+Vanya Markova ha venido hoy a clase 359 minutos
+maria ha venido hoy a clase 242 minutos
+Balam Castro ha venido hoy a clase 242 minutos
+Daud ha venido hoy a clase 71 minutos
+nidaa kabbaj ha venido hoy a clase 242 minutos
+Eva ha venido hoy a clase 241 minutos
+Eddybei ha venido hoy a clase 219 minutos
+Daud Peralta Adan ha venido hoy a clase 171 minutos
+Kevin Hughes ha venido hoy a clase 157 minutos
+Eva Huertas ha venido hoy a clase 33 minutos
+ ha venido hoy a clase undefined minutos
+
+ ********* 3abril_participants_94849208356.csv ********* 
+﻿Nicolas Quiroga Mateus ha venido hoy a clase 93 minutos
+Andrii Sharmar ha venido hoy a clase 243 minutos
+Eddybei ha venido hoy a clase 58 minutos
+Eva ha venido hoy a clase 200 minutos
+Daud ha venido hoy a clase 106 minutos
+maria ha venido hoy a clase 242 minutos
+Esteban Piliponksy ha venido hoy a clase 27 minutos
+Vanya ha venido hoy a clase 37 minutos
+Balam ha venido hoy a clase 238 minutos
+Zulema Casado García-Consuegra ha venido hoy a clase 237 minutos
+daniel salcedo ha venido hoy a clase 218 minutos
+Óscar Miras,oscar.miras@ironhack.com,235,No ha venido hoy a clase 235 minutos
+Esteban Piliponsky ha venido hoy a clase 213 minutos
+94849208356 ha venido hoy a clase 2 minutos
+nidaa kabbaj ha venido hoy a clase 194 minutos
+nicolas quiroga ha venido hoy a clase 170 minutos
+Vanya Markova ha venido hoy a clase 177 minutos
+Daud Peralta Adan ha venido hoy a clase 136 minutos
+Dani ha venido hoy a clase 17 minutos
+Kevin Hughes ha venido hoy a clase 244 minutos
+ ha venido hoy a clase undefined minutos
+
+ ********* 3junio_participants_94849208356.csv ********* 
+﻿aaron sanchez ha venido hoy a clase 245 minutos
+Daud ha venido hoy a clase 92 minutos
+Óscar Miras,oscar.miras@ironhack.com,261,No ha venido hoy a clase 261 minutos
+Zulema Casado García-Consuegra ha venido hoy a clase 240 minutos
+nidaa kabbaj ha venido hoy a clase 258 minutos
+Eva ha venido hoy a clase 40 minutos
+maria ha venido hoy a clase 253 minutos
+Balam ha venido hoy a clase 251 minutos
+Esteban Piliponksy ha venido hoy a clase 152 minutos
+Vanya Markova ha venido hoy a clase 412 minutos
+daniel salcedo ha venido hoy a clase 183 minutos
+Andrii Sharmar ha venido hoy a clase 233 minutos
+aaronn sanchez ha venido hoy a clase 210 minutos
+Eva Huertas ha venido hoy a clase 223 minutos
+Daud Peralta Adan ha venido hoy a clase 184 minutos
+Kevin Hughes ha venido hoy a clase 166 minutos
+Esteban Piliponsky ha venido hoy a clase 94 minutos
+Dani ha venido hoy a clase 41 minutos
  ha venido hoy a clase undefined minutos
